@@ -24,6 +24,7 @@ In the case of NLP our work would be to use the Stanford Natural Language Parsin
 In case of RLP the idea is to use the javacc lexical scanner / parser generator to build a parser from the grammars of the request language. For now the plans are to use something similar to SQL as language.
 
 Here is a summary of the pro/ contra arguments so far:
+
 1. Natural language improves the usability of the tool since the user can define requests without learning a new semantic / syntax.
 But on the other hand there are requirements for the supported search terms like brackets. Statements like brackets can not be expressed in natural language easily. So the preciseness of natural language is a problem.
 
