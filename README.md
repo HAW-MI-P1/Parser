@@ -26,7 +26,6 @@ In case of RLP the idea is to use the javacc lexical scanner / parser generator 
 Here is a summary of the pro/ contra arguments so far:
 1. Natural language improves the usability of the tool since the user can define requests without learning a new semantic / syntax.
 But on the other hand there are requirements for the supported search terms like brackets. Statements like brackets can not be expressed in natural language easily. So the preciseness of natural language is a problem.
-
 2. In a specific request language precise logical statements like brackets, fuzzy weights ... can be defined very precisely. 
 But the user has to learn the language before he is able to use the tool and creating grammars for javacc is more a challenge than using the results of the Stanford tools.
 
