@@ -31,11 +31,11 @@ But the user has to learn the language before he is able to use the tool and cre
 
 Necessary Libs in Build Path
 =============
-stanford-corenlp-3.5.0.jar
-stanford-corenlp-3.5.0-models.jar
+- stanford-corenlp-3.5.0.jar
+- stanford-corenlp-3.5.0-models.jar
 
 Requirements for Eclipse and Java
 =============
-Stanford NLP-Core Library v3.5.0: http://nlp.stanford.edu/software/corenlp.shtml
-Java 8 (for nlp-lib)
-You need the JavaCC plugin: http://marketplace.eclipse.org/content/javacc-eclipse-plug
+- Stanford NLP-Core Library v3.5.0: http://nlp.stanford.edu/software/corenlp.shtml
+- Java 8 (for nlp-lib)
+- You need the JavaCC plugin: http://marketplace.eclipse.org/content/javacc-eclipse-plug
