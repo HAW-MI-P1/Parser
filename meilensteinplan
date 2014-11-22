@@ -1,0 +1,18 @@
+1. NLP zum Laufen kriegen: Einbindung in Eclipse Projekt, Ausgabe als Datenstrukturen in Java
+2. Fünf typische (einfache) Satzstrukturen finden
+3. Tests erstellen
+4. Umwandlung NLP Ausgabedaten zu FB-API Protokoll
+5. Unterstützung von Orten => Test
+6. Unterstützung von Zeiträumen => Test
+7. Unterstützung von Namen => Test
+8. Unterstützung von komplexeren Strukturen => 
+9. Umwandlung von Relationen (z.B. "kommt aus", "lebt in", "befindet sich", "ist Bruder von")
+
+Eiscreme und [Gummibärchen oder Schockolade]
+
+USA  2011 dsacjnhsnjhd Lukas
+
+User:
+	- Age
+	- Job
+	
