@@ -41,14 +41,10 @@ public class ParserTest {
 		
 		JSONObject test04=parser.parse("who is called Jane?");
 		System.out.println(test04);
-
-		
 		String attribute04_key="attribute";
 		String attribute04_value="name";
-
 		String value04_key="value";
 		String[] value04_value={"Jane"};
-		
 		assertTrue(test04.get(attribute04_key).equals(attribute04_value));
 		assertTrue(test04.get(value04_key).equals(Arrays.asList(value04_value)));
 
